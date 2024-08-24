@@ -8,7 +8,7 @@ public  class Reverse
         List<Integer> li=Arrays.asList(10,20,30,40,50);
         Collections.reverse(li);
         System.out.println(li);
-
+        System.out.println("New Line Added");
         
 
 
